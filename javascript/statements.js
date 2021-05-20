@@ -38,3 +38,4 @@ if (fruits1 === 'k' || fruits === 52) {
 } else {
     console.log('diff')
 }
+ //comment
