@@ -1,0 +1,10 @@
+p.error {
+  padding: 10px;
+  color: crimson;
+  border: 1px solid crimson;
+}
+p.success {
+  padding: 10px;
+  color: rgb(60, 220, 20);
+  border: 1px solid rgb(60, 220, 20);
+}
