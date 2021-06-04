@@ -12,3 +12,14 @@ input {
   margin: 10px auto;
   padding: 4px;
 }
+.feedback {
+  display: none;
+  border: 1px blue dotted;
+  text-align: center;
+}
+.success {
+  border: 2px solid limegreen;
+}
+.error {
+  border: 2px solid crimson;
+}
